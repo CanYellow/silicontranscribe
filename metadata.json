@@ -1,0 +1,5 @@
+{
+  "name": "SiliconTranscribe",
+  "description": "A local web application to transcribe audio files using the SiliconFlow API. Supports API key management, model selection, file upload, and result export.",
+  "requestFramePermissions": []
+}
